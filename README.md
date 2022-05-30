@@ -1,1 +1,2 @@
 # Applied_Data_Science_Capstone_SPACE_X
+jupyter trust mynotebook.ipynb
